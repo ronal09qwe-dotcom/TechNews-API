@@ -1,0 +1,2 @@
+# TechNews-API
+Parcial Practico
